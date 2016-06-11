@@ -1,0 +1,34 @@
+.container {
+    width: 920px;
+    margin: 0 auto;
+}
+
+#nota-principal {
+    background-color: #330000;
+    
+}
+
+
+
+
+#barra-navegacion {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+
+#encabezado {
+   
+}
+
+/*nota secundaria*/
+#notas-secundarias {
+   
+}
+
+#encabezado, nota-principal, notas-secundarias{
+    background-color: #330000;
+}
+
+
