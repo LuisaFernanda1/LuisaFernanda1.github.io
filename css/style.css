@@ -65,3 +65,11 @@ body {
 #busqueda {
     margin-top: 65px;
 }
+#busqueda button{
+    font-family: monospace;
+    color: #330000;
+    font-size: 1.16em;
+}
+#serie-peli {
+    
+}
